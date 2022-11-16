@@ -20,62 +20,88 @@
       "id": 3
     }
   ],
+  "categories": [
+    {
+      "id": "2e8217f5-2d98-4964-86e4-00bc55204b79",
+      "name": "Pant"
+    },
+    {
+      "id": "85bd7855-6106-43a0-bbea-a3c04352c3d2",
+      "name": "Short"
+    },
+    {
+      "id": "ab1cabea-365c-405f-bc82-061502ab1785",
+      "name": "T-shirt"
+    },
+    {
+      "id": "c2f7e89e-d6fb-4989-9e1c-62cdecf484b5",
+      "name": "Skirt"
+    }
+  ],
   "products": [
     {
       "id": "d0592174-c239-4c01-8edd-f118db5b9084",
       "name": "Wiberg Super Cure",
       "price": 65.9,
       "createAt": "2021-09-08T01:10:26Z",
-      "updateAt": "2022-06-21T05:15:58Z"
+      "updateAt": "2022-06-21T05:15:58Z",
+      "category": "2e8217f5-2d98-4964-86e4-00bc55204b79"
     },
     {
       "id": "0c718b52-043f-43d1-b697-a3715e1729dd",
       "name": "Mussels - Cultivated",
       "price": 61,
       "createAt": "2022-01-10T08:55:28Z",
-      "updateAt": "2021-11-13T23:11:11Z"
+      "updateAt": "2021-11-13T23:11:11Z",
+      "category": "85bd7855-6106-43a0-bbea-a3c04352c3d2"
     },
     {
       "id": "64ee5441-a073-4817-b4f1-d366d31bb4f0",
       "name": "Chivas Regal - 12 Year Old",
       "price": 33.8,
       "createAt": "2022-01-31T02:49:00Z",
-      "updateAt": "2022-01-01T16:33:45Z"
+      "updateAt": "2022-01-01T16:33:45Z",
+      "category": "85bd7855-6106-43a0-bbea-a3c04352c3d2"
     },
     {
       "id": "e2ea53df-54b0-4270-bf0a-ef1328e21bc6",
       "name": "Parasol Pick Stir Stick",
       "price": 34.7,
       "createAt": "2021-10-11T21:28:23Z",
-      "updateAt": "2022-01-13T22:42:54Z"
+      "updateAt": "2022-01-13T22:42:54Z",
+      "category": "85bd7855-6106-43a0-bbea-a3c04352c3d2"
     },
     {
       "id": "1b162d13-813a-40fb-b4e8-c1fd3112281b",
       "name": "Chocolate - Milk Coating",
       "price": 21,
       "createAt": "2021-12-02T12:44:30Z",
-      "updateAt": "2021-09-06T04:37:35Z"
+      "updateAt": "2021-09-06T04:37:35Z",
+      "category": "ab1cabea-365c-405f-bc82-061502ab1785"
     },
     {
       "id": "dc233a2d-f750-43a1-ba39-9ef43b687c88",
       "name": "Beans - Fine",
       "price": 30.3,
       "createAt": "2021-11-28T17:32:16Z",
-      "updateAt": "2021-10-21T03:42:21Z"
+      "updateAt": "2021-10-21T03:42:21Z",
+      "category": "ab1cabea-365c-405f-bc82-061502ab1785"
     },
     {
       "id": "8531f407-8f0e-4631-a5b1-a07c024f8a72",
       "name": "Lambcasing",
       "price": 40.9,
       "createAt": "2022-06-02T03:37:19Z",
-      "updateAt": "2021-09-06T13:14:28Z"
+      "updateAt": "2021-09-06T13:14:28Z",
+      "category": "c2f7e89e-d6fb-4989-9e1c-62cdecf484b5"
     },
     {
       "id": "258bfbca-19ea-4414-a4b8-235bd29ded14",
       "name": "Ginger - Fresh",
       "price": 66.5,
       "createAt": "2021-12-09T06:14:20Z",
-      "updateAt": "2022-02-12T16:50:38Z"
+      "updateAt": "2022-02-12T16:50:38Z",
+      "category": "c2f7e89e-d6fb-4989-9e1c-62cdecf484b5"
     },
     {
       "id": "aed6f251-1c08-466c-9bca-5d25b05f7d39",
